@@ -1,10 +1,10 @@
 # A42
 O HAS é desenvolvido para um untilizador que pretenda um sistema de controlo à habitação capaz de lhe poupar tempo e dinheiro.
   Com o HAS o utilizador será capaz de:
-    * -regular a temperatura;
-    * -regular a luminosidade;
-    * -prevenir incendio;
-    * -prevenir inundações.  
+* -regular a temperatura;
+* -regular a luminosidade;
+* -prevenir incendio;
+* -prevenir inundações.  
     
   Com sensores de temperatura distribuídos por toda a casa, a regulação da temperatura será de uma maior facilidada e a adição de um sensor externo para a comparação com a temperatura exterior o utilizador será capaz de regular a temperatura de uma forma mais eficiente a partir de um simples abrir e fechar das janelas.  
   
